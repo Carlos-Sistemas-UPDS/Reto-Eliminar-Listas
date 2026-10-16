@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RetoEliminar/RetoEliminar.csproj" />
+  <Project Path="RetoEliminarNivel2/RetoEliminarNivel2.csproj" Id="55b5a1cf-7c94-450c-b70b-cd221afef48c" />
+</Solution>
